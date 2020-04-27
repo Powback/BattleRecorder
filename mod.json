@@ -1,0 +1,9 @@
+{
+	"Name": "BattleRecorder",
+	"Authors": ["Powback"],
+	"Description": "Record and playback movement",
+	"URL": "",
+	"Version": "0",
+	"HasWebUI": false,
+	"HasVeniceEXT": true
+}
